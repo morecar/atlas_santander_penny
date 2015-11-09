@@ -1,0 +1,11 @@
+*Conclusión*
+
+Los mapas que se publican en este trabajo son demasiado pocos como para permitir conclusiones muy generales sobre las hablas montañesas. Santander es una encrucijada lingüística donde se entrechocan antiguas formas de ascendencia leonesa con formas más modernas extendidas desde la zona de Burgos. En varias ocasiones, mediante los mapas aquí publicados, se puede apreciar cómo un fenómeno moderno ha penetrado en Santander por el Puerto del Escudo, la línea de la actual carretera Burgos - Santander, para llegar a la capital de provincia y luego extenderse por las zonas bajas de la costa, de fácil comunicación (cf. mapas 3, 4, 6 (?), 11, 18). Otra zona que parece estar abierta a las influencias venidas del sur es Liébana (cf. mapas 1-4, 6, 11, 16, 19). 
+
+A pesar del carácter restringido de la encuesta, creo haber podido demostrar (cf. mapas 1-8) que la metafonía se extiende por casi todo el largo de la provincia, por lo menos en las zonas montañosas, y que la distinción morfosintáctica (íntimamente ligada a la metafonía) entre sustantivos contables y los no contables (lo que viene llamándose hasta ahora «neutro de materia») es punto menos que universal en la provincia (cf. mapas 23-25).
+
+En otros casos se trataba de fijar isoglosas que ya se sabía cruzaban la Montaña, sin que se conociera su trayecto exacto. Se ha podido contribuir a la fijación de las zonas de la palatalización de L- (mapa 13) y de N- (mapa 14), de la velarización de la /n/ final (mapa 15), de la retención de -MB- (mapa 17), etc. Asimismo se puede ver por primera vez la extensión de varios fenómenos de la morfología verbal (mapas 19-22). 
+
+De esta fijación de isoglosas se percibe que hay dos focos de resistencia a la castellanización de las hablas montañesas: la zona pasiega (puntos 26-29) y el valle de Nansa (puntos 5-11), que a veces se unen dialectalmente mediante los dialectos de la zona alta intermedia. Esta situación se observa bien en los mapas de la metafonía (1-8) y en varios otros (14-16).
+
+La zona donde mejor se conservan las formas tradicionales del habla es sin duda el valle del Nansa, y sobre todo el curso superior de este río (cf. mapa 19). 
