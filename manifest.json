@@ -1,0 +1,53 @@
+{
+  "short_name": "L'Unicurniu",
+  "name": "L'Unicurniu Tupunímicu: visor di tupunímia",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "unicorn.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    },
+    {
+      "src": "black_marker.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    },
+    {
+      "src": "maps/1.svg",
+      "type": "image/svg"
+    },
+    {
+      "src": "maps/2.svg",
+      "type": "image/svg"
+    },
+    {
+      "src": "maps/3.svg",
+      "type": "image/svg"
+    },
+    {
+      "src": "maps/4.svg",
+      "type": "image/svg"
+    },
+    {
+      "src": "5.svg",
+      "type": "image/svg"
+    },    
+    {
+      "src": "maps/6.svg",
+      "type": "image/svg"
+    },
+    {
+      "src": "maps/7.svg",
+      "type": "image/svg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

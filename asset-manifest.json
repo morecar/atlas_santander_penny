@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/atlas_santander_penny/static/css/main.8d55b519.chunk.css",
+    "main.js": "/atlas_santander_penny/static/js/main.a01c21e7.chunk.js",
+    "main.js.map": "/atlas_santander_penny/static/js/main.a01c21e7.chunk.js.map",
+    "runtime-main.js": "/atlas_santander_penny/static/js/runtime-main.22a4c9be.js",
+    "runtime-main.js.map": "/atlas_santander_penny/static/js/runtime-main.22a4c9be.js.map",
+    "static/js/2.110ff287.chunk.js": "/atlas_santander_penny/static/js/2.110ff287.chunk.js",
+    "static/js/2.110ff287.chunk.js.map": "/atlas_santander_penny/static/js/2.110ff287.chunk.js.map",
+    "index.html": "/atlas_santander_penny/index.html",
+    "static/css/main.8d55b519.chunk.css.map": "/atlas_santander_penny/static/css/main.8d55b519.chunk.css.map",
+    "static/js/2.110ff287.chunk.js.LICENSE.txt": "/atlas_santander_penny/static/js/2.110ff287.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22a4c9be.js",
+    "static/js/2.110ff287.chunk.js",
+    "static/css/main.8d55b519.chunk.css",
+    "static/js/main.a01c21e7.chunk.js"
+  ]
+}
